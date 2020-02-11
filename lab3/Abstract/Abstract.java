@@ -27,7 +27,7 @@ class EasternStyle extends WesternStyle
 	}
 }
 
-class Abst
+class Abstract
 {
 	public static void main(String[] args) {
 		EasternStyle obj1 = new EasternStyle();
